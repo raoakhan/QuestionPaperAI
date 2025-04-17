@@ -12,6 +12,37 @@ An AI-powered intelligent assessment platform that streamlines test paper genera
 - **Document Export**: Download papers in DOCX and PDF formats
 - **Answer Keys**: Generate answer keys for each student's paper
 
+## Screenshots
+
+Below are screenshots demonstrating the main features and workflow of QuestionPaperAI:
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+*The main dashboard providing an overview of the platform.*
+
+### Paper Creation Wizard
+![Paper Wizard Step 1](screenshots/paper-wizard-step1.png)
+*Step 1: Enter paper details (title, subject, etc.).*
+
+![Paper Wizard Step 2](screenshots/paper-wizard-step2.png)
+*Step 2: Add topics and configure question distribution.*
+
+### Question Generation
+![Question Generation](screenshots/question-generation.png)
+*AI-assisted question generation interface.*
+
+### Student Management
+![Student Management](screenshots/student-management.png)
+*Upload and manage student information.*
+
+### Question Bank
+![Question Bank](screenshots/question-bank.png)
+*Browse and verify questions before including them in papers.*
+
+### Download Paper
+![Download Paper](screenshots/download-paper.png)
+*Export generated papers in DOCX or PDF format.*
+
 ## Tech Stack
 
 - **Frontend**: React.js with TypeScript

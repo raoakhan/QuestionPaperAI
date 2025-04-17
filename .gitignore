@@ -8,6 +8,10 @@ node_modules/
 # Ignore logs
 *.log
 
+# Ignore Replit config files
+.replit
+replit.nix
+
 # Ignore OS generated files
 .DS_Store
 Thumbs.db
