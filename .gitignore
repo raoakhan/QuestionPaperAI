@@ -22,3 +22,6 @@ Thumbs.db
 
 # Ignore coverage reports
 coverage/
+
+# Ignore Python virtual environments
+scan_service/venv/
